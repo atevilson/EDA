@@ -7,6 +7,8 @@ Agradeço por acompanhar o projeto.
 
 [Clique aqui para abrir o Notebook e confira a análise aplicada](https://github.com/atevilson/EDA/blob/main/analise-filmes.ipynb)
 
+---
+
 [Base de dados disponibilizadas no Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 
