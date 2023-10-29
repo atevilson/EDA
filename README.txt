@@ -1,11 +1,11 @@
-## EDA - Exploratory Data Analysis 🎲🎲
+## EDA - Exploratory Data Analysis
 
 Este projeto desenvolvi para colocar em prática conceitos de **EDA**. A proposta principal deste projeto em **Python** é **expor** meu conhecimento com conceitos básicos e um tanto avançado com análise explorátoria e visualização de dados.
 
 Agradeço por acompanhar o projeto.
 
 
-[Clique aqui para abrir o Notebook e confira a análise aplicada]()
+[Clique aqui para abrir o Notebook e confira a análise aplicada](https://github.com/atevilson/EDA/blob/main/analise-filmes.ipynb)
 
 ---
 
